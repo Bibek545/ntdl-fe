@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.wrapper {
+  background: linear-gradient(
+    rgba(251, 227, 160, 0.633),
+    rgba(56, 143, 230, 0.562)
+  );
+  width: 100vw;
+  min-height: 100vh;
+}
+
+.table {
+  --bs-table-bg: transparent;
+}
